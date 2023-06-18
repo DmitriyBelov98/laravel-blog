@@ -20,4 +20,3 @@
             </article>
         @endforeach
 @endsection
-
